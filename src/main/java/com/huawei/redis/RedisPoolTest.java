@@ -28,7 +28,7 @@ public class RedisPoolTest {
             jedis.close();
         }
 
-        System.out.println("redis每秒操作：" + i + "次");
+        System.out.println("redis每秒操作：" + i + "次 ");
 
 
     }
