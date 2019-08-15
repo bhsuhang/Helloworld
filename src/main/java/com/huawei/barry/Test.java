@@ -6,6 +6,8 @@ public class Test {
 
         System.out.println("this is test of git...");
 
+        System.out.println("this is test of git...");
+
 
     }
 }
