@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../../work/14 应用市场/05 开发流程和环境/03 开发规范/轻松写出满足公司V4.2标准规范的JAVA代码/CodeFormatter.xml" />
+        <option name="selectedJavaProfile" value="CodeFormatter_v3" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>

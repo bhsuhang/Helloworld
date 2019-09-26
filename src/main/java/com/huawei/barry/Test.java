@@ -4,9 +4,9 @@ public class Test {
 
     public static void main(String args[]){
 
-        System.out.println("this is test of git...");
-
-        System.out.println("this is test of git...");
+        byte[] bytes=new byte[1000];
+        bytes[0]=1;
+        bytes[0]=127;
 
 
     }

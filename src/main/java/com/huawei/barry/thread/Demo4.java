@@ -1,4 +1,10 @@
+/**
+ * 同步方法可以调用非同步方法
+ */
+
 package com.huawei.barry.thread;
+
+
 
 public class Demo4 {
 
@@ -23,19 +29,19 @@ public class Demo4 {
     }
 
     public static void main(String args[]) {
+
         final Demo4 demo4 = new Demo4();
 
-        new Thread(() -> {
-            demo4.m1();
-
-        });
+//        new Thread(() -> {
+//            demo4.m1();
+//        }).start();
 
         new Thread(new Runnable() {
             @Override
             public void run() {
                 demo4.m2();
             }
-        });
+        }).start();
     }
 
 }
