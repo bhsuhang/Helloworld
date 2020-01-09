@@ -2,38 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9eb0df5-220d-413d-b5e1-bba1d0ca4155" name="Default Changelist" comment="add the redis client to the repo">
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/hw.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/eclipseCodeFormatter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_17_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/ConsecutiveInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/ConsecutiveInteger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/Convert2NDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/Convert2NDecimalNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/MatrixMuptiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/MaxAreaOfIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/OlympicGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/PrimeNumberDevidedBy6Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/PrimeNumberFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/RegularExpress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/Standing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/Vowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/WordBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/WordMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/WordWeights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/file/Demo1FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/file/DemoImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/thread/Demo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_auth_common_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_bridge_common_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_web_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vertx_vertx_web_common_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/MyVertx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/AMultiplyB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/ASubstractB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/CalculateExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/CalculateExpression2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/CompareSetPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/Exponentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/FindSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/MaxmalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/NFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/PrintCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/PrintTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/RecursiveCalculateExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/RegexMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/RegexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/TestSecurityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/httpclient/HttpClientDownloadAutoHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/httpclient/HttpClientForBaidu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/httpclient/HttpClientforUber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/thread/FutureTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/nio/BioClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/huawei/nio/BioServerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/barry/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/barry/thread/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/thread/Demo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/APlusB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/APlusB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/MatrixMuptiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/MatrixMuptiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/barry/httpclient/Httpclient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huawei/barry/httpclient/Httpclient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/nio/BioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huawei/nio/BioServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,12 +84,12 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/huawei" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Server" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -111,9 +115,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxAreaOfIsland">
-    <configuration name="MaxAreaOfIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.MaxAreaOfIsland" />
+  <component name="RunManager" selected="Application.HttpClientForBaidu">
+    <configuration name="HttpClientForBaidu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.httpclient.HttpClientForBaidu" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawei.barry.httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpClientforUber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.httpclient.HttpClientforUber" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huawei.barry.httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.MaxSquare" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OlympicGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.OlympicGame" />
+    <configuration name="MaxmalSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.MaxmalSquare" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -138,34 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.Test" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huawei.barry.exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Vowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.Vowel" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.huawei.barry.exam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.WordMaze" />
+    <configuration name="PrintTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huawei.barry.exam.PrintTable" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -179,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxAreaOfIsland" />
-        <item itemvalue="Application.WordMaze" />
-        <item itemvalue="Application.OlympicGame" />
-        <item itemvalue="Application.Vowel" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HttpClientForBaidu" />
+        <item itemvalue="Application.HttpClientforUber" />
+        <item itemvalue="Application.MaxmalSquare" />
+        <item itemvalue="Application.MaxSquare" />
+        <item itemvalue="Application.PrintTable" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +269,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/httpclient/Httpclient.java</url>
-          <line>59</line>
+          <line>63</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -334,13 +338,37 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/WordMaze.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/WordMaze.java</url>
           <line>45</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/RegexMatches.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/httpclient/HttpClientDownloadAutoHome.java</url>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/MaxAreaOfIsland.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/thread/FutureTaskTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/FindSubArrays.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/MaxmalSquare.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/huawei/barry/exam/Test.java</url>
@@ -354,11 +382,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="i &gt;= island.length" language="JAVA" />
-        <watch expression="i &lt; 0" />
-        <watch expression="j &lt; 0 || j &gt;= island[0].length " />
-        <watch expression="isCounted[i][j]" />
-        <watch expression="island[i][j]" />
+        <watch expression="input.indexOf(&quot;,&quot;)" />
       </configuration>
     </watches-manager>
   </component>
